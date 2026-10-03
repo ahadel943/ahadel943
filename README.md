@@ -1,6 +1,6 @@
-# Hi, I'm Ahmed Adel 👋
+# **Hi, I'm Ahmed Adel** 👋
 
-### Data Analyst | Operations & Business Analytics
+### **Data Analyst | Operations & Business Analytics**
 
 Operations professional transitioning into Data Analytics, with hands-on experience across retail operations, sales, inventory, customer management, and supplier coordination.
 
@@ -8,9 +8,9 @@ I use SQL, Python, Excel, and Power BI to analyze business data, define KPIs, id
 
 My analytics portfolio covers e-commerce, operations, and other business domains, with a focus on applying transferable analytical methods to real-world business problems.
 
-## 🛠️ Skills & Tools
+## 🛠️ **Skills & Tools**
 
-### Analytics
+### **Analytics**
 - SQL (PostgreSQL)
 - Python (Pandas)
 - Excel
@@ -18,7 +18,7 @@ My analytics portfolio covers e-commerce, operations, and other business domains
 - Power Query
 - DAX
 
-### Analytical Methods
+### **Analytical Methods**
 - KPI Analysis
 - Exploratory Data Analysis
 - Funnel Analysis
@@ -36,7 +36,7 @@ My analytics portfolio covers e-commerce, operations, and other business domains
 - **Conversion Analytics** — Funnels, drop-offs, abandonment, and conversion bottlenecks
 - **Business Analytics** — Translating business questions into measurable metrics and actionable insights
 
-## 🚀 Featured Projects
+## 🚀 **Featured Projects**
 
 ### 1. Repeat Purchase Rate Analysis
 **SQL | PostgreSQL**
@@ -68,3 +68,9 @@ Analyzed **361K+ e-commerce shopping carts** to identify abandonment patterns an
 **Key Findings:** Overall Cart Abandonment Rate was **82.06%**, with **222K+ abandoned carts** in the $1,500+ value segment, while nearly **40% of high-value carts never reached checkout**.
 
 🔗 [View Project](https://github.com/ahadel943/ecommerce_cart_abandonment_analysis)
+
+## 📚 **Currently Building**
+
+- **Operations Analytics** — Inventory, supply chain, and operational performance.
+- **Cross-Domain Portfolio** — Expanding across Retail, Logistics, SaaS, and Fintech.
+- **Business-Driven Analytics** — Turning real-world business questions into measurable insights.
