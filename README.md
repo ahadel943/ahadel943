@@ -27,3 +27,11 @@ My analytics portfolio covers e-commerce, operations, and other business domains
 - Trend Analysis
 - Root Cause Analysis
 - Data Cleaning & Data Modeling
+
+## 📊 Analytics Focus
+
+- **Customer & User Analytics** — Retention, repeat behavior, segmentation, and customer journeys
+- **Performance Analytics** — KPI tracking, trend analysis, performance gaps, and root cause analysis
+- **Operations Analytics** — Inventory, fulfillment, process performance, and operational efficiency
+- **Conversion Analytics** — Funnels, drop-offs, abandonment, and conversion bottlenecks
+- **Business Analytics** — Translating business questions into measurable metrics and actionable insights
