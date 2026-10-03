@@ -74,3 +74,10 @@ Analyzed **361K+ e-commerce shopping carts** to identify abandonment patterns an
 - **Operations Analytics** — Inventory, supply chain, and operational performance.
 - **Cross-Domain Portfolio** — Expanding across Retail, Logistics, SaaS, and Fintech.
 - **Business-Driven Analytics** — Turning real-world business questions into measurable insights.
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-adel-7623233bb/)
+- 📧 [Email](mailto:ahadel943@gmail.com)
+
+Open to Data Analyst, Operations Analytics, and Business Analytics opportunities.
